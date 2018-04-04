@@ -14,7 +14,7 @@ public class MonApplication2 {
     /**
      * @param args the command line arguments test
      */
-    public static void min(String[] args) {
+    public static void main(String[] args) {
         
        
         Scanner sc = new Scanner(System.in);
